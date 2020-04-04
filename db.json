@@ -13,7 +13,7 @@
   },
   "visibility": 10000,
   "wind": { "speed": 5.7, "deg": 180 },
-  "clouds": { all: 0 },
+  "clouds": { "all": 0 },
   "dt": 1585999180,
   "sys": {
     "type": 1,
