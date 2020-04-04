@@ -26,6 +26,21 @@
   "id": 2995468,
   "cod": 200
 },
+  "time": {
+  "status": "OK",
+  "message": "",
+  "countryCode": "FR",
+  "countryName": "France",
+  "zoneName": "Europe/Paris",
+  "abbreviation": "CEST",
+  "gmtOffset": "7200",
+  "dst": "1",
+  "zoneStart": "1585443600",
+  "zoneEnd": "1603587600",
+  "nextAbbreviation": "CET",
+  "timestamp": "1586006381",
+  "formatted": "2020-04-04 13:19:41"
+}
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
