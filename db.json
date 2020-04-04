@@ -1,5 +1,5 @@
 {
-  "weather": [{
+  "weather": {
   coord: { lon: 5.5, lat: 43.33 },
   weather: [ { id: 800, main: 'Clear', description: 'clear sky', icon: '01d' } ],
   base: 'stations',
@@ -26,8 +26,7 @@
   id: 2995468,
   name: 'Arrondissement de Marseille',
   cod: 200
-}
-  ],
+},
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
