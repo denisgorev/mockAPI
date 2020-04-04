@@ -1,8 +1,8 @@
 {
   "weather": {
-  "coord": { lon: 5.5, lat: 43.33 },
-  "weather": [ { "id": 800, "main": 'Clear', "description": 'clear sky', "icon": '01d' } ],
-  "base": 'stations',
+  "coord": { "lon": 5.5, "lat": 43.33 },
+  "weather": [ { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" } ],
+  "base": "stations",
   "main": {
     "temp": 17.75,
     "feels_like": 12.97,
@@ -18,7 +18,7 @@
   "sys": {
     "type": 1,
     "id": 6512,
-    "country": 'FR',
+    "country": "FR",
     "sunrise": 1585977230,
     "sunset": 1586023653
   },
