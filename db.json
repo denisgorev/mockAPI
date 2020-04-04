@@ -12,7 +12,7 @@
     "humidity": 48
   },
   "visibility": 10000,
-  "wind": { speed: 5.7, deg: 180 },
+  "wind": { "speed": 5.7, "deg": 180 },
   "clouds": { all: 0 },
   "dt": 1585999180,
   "sys": {
@@ -24,7 +24,7 @@
   },
   "timezone": 7200,
   "id": 2995468,
-  "name": 'Arrondissement de Marseille',
+  "name": "Arrondissement de Marseille",
   "cod": 200
 },
   "posts": [
